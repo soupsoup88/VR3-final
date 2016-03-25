@@ -10,7 +10,6 @@ ModelImporter:
     2300000: Bus_Stop_Sign
     3300000: Bus_Stop_Sign
     4300000: Bus_Stop_Sign
-    6400000: Bus_Stop_Sign
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -38,7 +37,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
