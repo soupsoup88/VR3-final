@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: ce34a55386599d140b49a3345ee83bfe
+timeCreated: 1458866960
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000020000000300000004000000050000000a0000000b0000000e0000000f0000001000000011000000
+  assetHash:
+    serializedVersion: 2
+    Hash: f46ae6158c28eddfdb6510201b5880fd
+  longitude: 121.60120786743225
+  latitude: 23.992752558570324
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 22144.02, y: 3891.7375, z: 24494.28}
+      lookAt: {x: -21793028, y: -1480236.4, z: -22932536}
+      up: {x: -0.03224663, y: 0.9989037, z: -0.033934496}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group 10
+    100002: Image 2
+    100004: Image 3
+    100006: Image 4
+    100008: Image 5
+    100010: //RootNode
+    100012: SUBWAY
+    100014: SUBWAY 1
+    400000: Group 10
+    400002: Image 2
+    400004: Image 3
+    400006: Image 4
+    400008: Image 5
+    400010: //RootNode
+    400012: SUBWAY
+    400014: SUBWAY 1
+    2300000: Group 10
+    2300002: Image 2
+    2300004: Image 3
+    2300006: Image 4
+    2300008: Image 5
+    2300010: //RootNode
+    2300012: SUBWAY
+    2300014: SUBWAY 1
+    3300000: Group 10
+    3300002: Image 2
+    3300004: Image 3
+    3300006: Image 4
+    3300008: Image 5
+    3300010: //RootNode
+    3300012: SUBWAY
+    3300014: SUBWAY 1
+    4300000: Mesh New+York+Subway
+    4300002: Mesh New+York+Subway
+    4300004: Mesh New+York+Subway
+    4300006: Mesh New+York+Subway
+    4300008: Mesh New+York+Subway
+    4300010: Mesh Group 10
+    4300012: Mesh SUBWAY
+    6400000: Group 10
+    6400002: Image 2
+    6400004: Image 3
+    6400006: Image 4
+    6400008: Image 5
+    6400010: //RootNode
+    6400012: SUBWAY
+    6400014: SUBWAY 1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

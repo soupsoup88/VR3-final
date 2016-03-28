@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 40eef7d8dd7e04643ac9c99cf91f225d
+timeCreated: 1459025098
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000120000001300000014000000
+  assetHash:
+    serializedVersion: 2
+    Hash: bc5e186e3679587f6c675661b5c61a18
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.10587101, y: 0.042639352, z: -0.11915399}
+      lookAt: {x: -0.003210354, y: -0.011901328, z: -0.010072619}
+      up: {x: -0.23570226, y: 0.94280905, z: 0.23570226}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chassis_vl
+    100002: Group 15
+    100004: Group 17
+    100006: Group 19
+    100008: //RootNode
+    100010: wh_lf
+    100012: wh_lf 1
+    100014: wh_lf 2
+    100016: wh_lf 3
+    100018: wheel_lb_d
+    100020: wheel_lf_d
+    400000: chassis_vl
+    400002: Group 15
+    400004: Group 17
+    400006: Group 19
+    400008: //RootNode
+    400010: wh_lf
+    400012: wh_lf 1
+    400014: wh_lf 2
+    400016: wh_lf 3
+    400018: wheel_lb_d
+    400020: wheel_lf_d
+    2300000: chassis_vl
+    2300002: Group 15
+    2300004: Group 17
+    2300006: Group 19
+    2300008: wh_lf
+    2300010: wh_lf 1
+    2300012: wh_lf 2
+    2300014: wh_lf 3
+    2300016: wheel_lb_d
+    2300018: wheel_lf_d
+    3300000: chassis_vl
+    3300002: Group 15
+    3300004: Group 17
+    3300006: Group 19
+    3300008: wh_lf
+    3300010: wh_lf 1
+    3300012: wh_lf 2
+    3300014: wh_lf 3
+    3300016: wheel_lb_d
+    3300018: wheel_lf_d
+    4300000: Mesh wh_lf
+    4300002: Mesh wheel_lb_d
+    4300004: Mesh wheel_lf_d
+    4300006: Mesh chassis_vl
+    4300008: Mesh Group 15
+    4300010: Mesh Group 17
+    4300012: Mesh Group 19
+    6400000: chassis_vl
+    6400002: Group 15
+    6400004: Group 17
+    6400006: Group 19
+    6400008: wh_lf
+    6400010: wh_lf 1
+    6400012: wh_lf 2
+    6400014: wh_lf 3
+    6400016: wheel_lb_d
+    6400018: wheel_lf_d
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
