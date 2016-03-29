@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 /Users/dongyuzhu/Desktop/VR3-final/Temp/bin/Debug/Assembly-CSharp.dll.mdb
 /Users/dongyuzhu/Desktop/VR3-final/Temp/bin/Debug/Assembly-CSharp.dll
 /Users/dongyuzhu/Desktop/VR3-final/obj/Debug/Assembly-CSharp.dll
@@ -17,3 +18,24 @@
 /Users/dongyuzhu/Desktop/VR3-final/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/dongyuzhu/Desktop/VR3-final/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/dongyuzhu/Desktop/VR3-final/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+=======
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/soupsoup88/Desktop/VR3 final/obj/Debug/Assembly-CSharp.dll
+/Users/soupsoup88/Desktop/VR3 final/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/UnityEngine.dll
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/UnityEditor.dll
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/Mono.Cecil.dll
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/Unity.DataContract.dll
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/soupsoup88/Desktop/VR3 final/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+>>>>>>> Stashed changes
